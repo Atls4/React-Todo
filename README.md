@@ -1,3 +1,10 @@
 # React-Todo
 
-Just a simple To-do list app
+A very simple To-do list app
+
+What can it do:
+  -You can add items to your list
+  
+ Future plans:
+    -Remove item
+    -Mark item as completed
